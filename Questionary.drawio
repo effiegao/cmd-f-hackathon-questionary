@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-06T22:30:03.243Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="ZpV5FdQ9ia3XljBR74Fz" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-06T22:33:35.673Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="51LVA0sr-oXEh6xk76TY" version="14.4.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="886" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -402,14 +402,20 @@
             <mxPoint x="950" y="159.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fbf4kHEvKjNuZVmllkt7-137" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#D0CEE2;fillColor=#FAD9D5;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Fbf4kHEvKjNuZVmllkt7-137" value="Open a &quot;blind box&quot; to light up your day!" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#D0CEE2;fillColor=#FAD9D5;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fbf4kHEvKjNuZVmllkt7-138" value="" style="endArrow=classic;html=1;strokeColor=#09555B;fontColor=#1A1A1A;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1070" y="160" as="sourcePoint" />
-            <mxPoint x="1240" y="160" as="targetPoint" />
+            <mxPoint x="1290" y="160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Fbf4kHEvKjNuZVmllkt7-139" value="Not what you need? Feel free to go back to homepage for the resources!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#F8CECC;sketch=0;fontColor=#1A1A1A;labelBorderColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1090" y="120" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fbf4kHEvKjNuZVmllkt7-140" value="hyperlink/button of home page" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=0;strokeColor=#D0CEE2;fillColor=#FAD9D5;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1290" y="125" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
